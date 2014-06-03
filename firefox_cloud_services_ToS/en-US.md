@@ -24,26 +24,26 @@ This top section summarizes the terms below. This summary is provided to help yo
     
 (b) **Find My Device** [INSERT].
 
-4. ### Connected Services
+4. #### Connected Services
 
-(b)  **Firefox Marketplace**: is our market for apps and games on desktop and Android and Firefox OS devices.  By using Firefox Marketplace content through your Firefox Account, you agree to these Terms, in addition to the Firefox Marketplace Terms of Use and Firefox Marketplace Privacy Notice.  [INSERT LINKS]
+(a)  **Firefox Marketplace**: is our market for apps and games on desktop and Android and Firefox OS devices.  By using Firefox Marketplace content through your Firefox Account, you agree to these Terms, in addition to the Firefox Marketplace Terms of Use and Firefox Marketplace Privacy Notice.  [INSERT LINKS]
 
-(c) **Loop**: is a [insert product description].  By using Loop with your Firefox Account, you agree to these Terms, in addition to the [insert link to Loop ToS and PN].
+(b) **Loop**: is a [insert product description].  By using Loop with your Firefox Account, you agree to these Terms, in addition to the [insert link to Loop ToS and PN].
     
     
-4. #### Privacy Policy
+5. #### Privacy Policy
 
     The <a href="https://accounts.firefox.com/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
 
-5. #### Your Content in our Services
+6. #### Your Content in our Services
 
     You may upload content as part of the features of the Services. By uploading content, you hereby grant us a nonexclusive, royalty-free, worldwide license to use your content in connection with the provision of the Services. You hereby represent and warrant that your content will not infringe the rights of any third party and will comply with any content guidelines presented by Mozilla.
 
-6. #### Mozilla's Proprietary Rights
+7. #### Mozilla's Proprietary Rights
 
     Mozilla does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Mozilla's copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features. The Services are distributed under and subject to the current version of the <a href="http://www.mozilla.org/MPL/" target="_blank">Mozilla Public License</a>.
 
-7. #### Term; Termination
+8. #### Term; Termination
 
     These Terms will continue to apply until ended by either you or Mozilla. You can choose to end them at any time for any reason by deactivating your Firefox account and discontinuing your use of the Services.
 
@@ -51,25 +51,25 @@ This top section summarizes the terms below. This summary is provided to help yo
 
     In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
 
-8. #### Indemnification
+9. #### Indemnification
 
     You agree to defend, indemnify and hold harmless Mozilla, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services  (including, but not limited to, from any content uploaded by you).
 
-9. #### Disclaimer; Limitation of Liability
+10. #### Disclaimer; Limitation of Liability
 
     THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ACCOUNT. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
     EXCEPT AS REQUIRED BY LAW, MOZILLA AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF MOZILLA AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
 
-10. #### Modifications to these Terms
+11. #### Modifications to these Terms
 
     Mozilla may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
 
-11. #### Miscellaneous
+12. #### Miscellaneous
 
     These Terms constitute the entire agreement between you and Mozilla concerning the Services and are governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
 
-12. #### Contact Us
+13. #### Contact Us
 
     Contact Mozilla at
 
