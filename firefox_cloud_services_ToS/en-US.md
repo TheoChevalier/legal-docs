@@ -1,4 +1,4 @@
-Last Updated March 26, 2014
+Last Updated June 2, 2014
 
 #### Summary
 
@@ -19,8 +19,12 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 3. #### Features
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+* **Firefox Sync**: lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    
+* **Firefox Marketplace**: is our market for apps and games on desktop and Android and Firefox OS devices.  By using Firefox Marketplace content through your Firefox Account, you agree to these Terms, in addition to the Firefox Marketplace Terms of Use and Firefox Marketplace Privacy Notice.  
 
+* **Loop**: is a [insert product description].  By using Loop with your Firefox Account, you agree to these Terms, in addition to the [insert link to Loop ToS and PN].
+    
 4. #### Privacy Policy
 
     The <a href="https://accounts.firefox.com/legal/privacy">Firefox Cloud Services Privacy Notice</a> describes details on what we receive from your use of the Services and how we use that information. We use the information we receive through the Services as described in our <a href="http://www.mozilla.org/privacy/" target="_blank">Mozilla Privacy Policy</a>.
