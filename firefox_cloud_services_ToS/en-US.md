@@ -6,6 +6,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 - Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
 - The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- Your use of the Services may connect you to other services and products offered by Mozilla or third parties, in which case additional terms may apply.  
 
 #### Terms of Service
 
@@ -19,11 +20,16 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 3. #### Features
 
-* **Firefox Sync**: lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+(a) **Firefox Sync**: lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
     
-* **Firefox Marketplace**: is our market for apps and games on desktop and Android and Firefox OS devices.  By using Firefox Marketplace content through your Firefox Account, you agree to these Terms, in addition to the Firefox Marketplace Terms of Use and Firefox Marketplace Privacy Notice.  
+(b) **Find My Device** [INSERT].
 
-* **Loop**: is a [insert product description].  By using Loop with your Firefox Account, you agree to these Terms, in addition to the [insert link to Loop ToS and PN].
+4. ### Connected Services
+
+(b)  **Firefox Marketplace**: is our market for apps and games on desktop and Android and Firefox OS devices.  By using Firefox Marketplace content through your Firefox Account, you agree to these Terms, in addition to the Firefox Marketplace Terms of Use and Firefox Marketplace Privacy Notice.  [INSERT LINKS]
+
+(c) **Loop**: is a [insert product description].  By using Loop with your Firefox Account, you agree to these Terms, in addition to the [insert link to Loop ToS and PN].
+    
     
 4. #### Privacy Policy
 
