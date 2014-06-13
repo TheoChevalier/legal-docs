@@ -1,4 +1,4 @@
-Last Updated March 26, 2014
+Last Updated June 13, 2014
 
 #### Summary
 
@@ -6,6 +6,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 - Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
 - The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
+- You may be subject to additional legal and privacy terms if you use the Services to connect to other Mozilla and non-Mozilla services, with legal and privacy terms that are different from these.  These additional terms will be available to you for review.
 
 #### Terms of Service
 
@@ -19,7 +20,13 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 3. #### Features
 
-    Firefox Sync lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+* **Firefox Sync** lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
+    
+* **Find My Device** allows you to remotely locate and control certain features of a misplaced Firefox OS device, such as obtaining a history of recent locations, erasing local content, enabling the ringtone or lock-screen, or displaying a message.  To use these functions, you must enable Find My Device in the settings of your Firefox OS device.  Find My Device will work even if the sound and location settings on your device are silent or turned off.  You can disable this feature in the settings of your device.
+
+If your device is misplaced, you can log into [INSERT URL] using your Firefox Account credentials to locate and communicate requests to your device.  Device location is approximate and may not be accurate.  You are responsible for any charges associated with data transmittal under your applicable data usage plan.  
+
+If you believe your Firefox OS device was stolen you should immediately contact law enforcement.  You agree not to use Find My Device to harass, abuse, stalk, threaten or violate the rights of any other person.  Mozilla is not responsible for any harassing, threatening, offensive transmissions that you may receive as a result of using Find My Device.
 
 4. #### Privacy Policy
 
