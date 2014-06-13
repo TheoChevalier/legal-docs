@@ -11,6 +11,7 @@ You send us different types of data depending on what features of the Services y
 
 * **Firefox Account**: When you sign up for an account, we receive your email address and password. 
 * **Sync**: If you use Sync, we receive a variety of information to synchronize your tabs, awesome bar, passwords, bookmarks, browser preferences and other data across devices.  
+* **Find My Device**: We do not collect the location history of devices that have Find My Device enabled. We will obtain the device's approximate location only if you sign into your Firefox Account with your password and request us to locate a connected device.  You can view the last location of your device for a period up to {INSERT] hours.  We delete this information within [INSERT] hours after you sign out of your account.  
 
 ---------------------------------------
 
