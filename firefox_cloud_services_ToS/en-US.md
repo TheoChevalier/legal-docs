@@ -22,8 +22,8 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 (a) **Firefox Sync**: lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
     
-(b) **Find My Device**: allows you to remotely locate and control certain features of a Firefox OS device, such as viewing recent locations, erasing local content, enabling the ringtone or lock-screen, or displaying a message. To use these functions, you must enable Find My Device in the settings of your device.  Find My Device will work even if the sound and location settings on your device are silent or turned off. You can disable this feature in the settings of your device.
-
+(b) **Find My Device**: allows you to remotely locate and control certain features of a Firefox OS device, such as viewing recent locations, erasing local content, enabling the ringtone or lock-screen, or displaying a message. To use these functions, you must enable Find My Device in the settings of your device.  Find My Device will work even if the sound and location settings on your device are silent or turned off. You can disable this feature in the settings of your device. 
+    
     If your device is misplaced, you can log into http://www.find.firefox.com using your Firefox Account credentials to locate and remotely control your device. Your device’s approximate location will be reported to us while the device is turned on and connected to the Internet.  If applicable, you are responsible for any charges associated with data transmittal.
     
     If you believe your device was stolen, you should contact law enforcement. Be careful sharing personal information  because messages displayed on your device are publicly available.  For more information on Find My Device, see [Insert SUMO link]
