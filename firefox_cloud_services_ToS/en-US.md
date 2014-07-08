@@ -6,7 +6,7 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 - Firefox cloud services (the "Services") are a suite of services provided to you by Mozilla. 
 - The Services are provided "as is" and there are no warranties of any kind. There are significant limits on Mozilla's liability for any damages arising from your use of the Services.
-- Your use of the Services may connect you to other services and products offered by Mozilla or third parties, in which case additional terms may apply.  
+- Your use of the Services may connect you to other services and products offered by Mozilla or third parties and additional terms may apply.  
 
 #### Terms of Service
 
@@ -22,13 +22,17 @@ This top section summarizes the terms below. This summary is provided to help yo
 
 (a) **Firefox Sync**: lets you access information stored in Firefox across devices, including your tabs, awesome bar, passwords, bookmarks, and browser preferences. You can enable and disable Firefox Sync through the Tools section of Firefox.
     
-(b) **Find My Device** [INSERT].
+(b) **Find My Device**: allows you to remotely locate and control certain features of a Firefox OS device, such as viewing recent locations, erasing local content, enabling the ringtone or lock-screen, or displaying a message. To use these functions, you must enable Find My Device in the settings of your device.  Find My Device will work even if the sound and location settings on your device are silent or turned off. You can disable this feature in the settings of your device.
+
+    If your device is misplaced, you can log into http://www.find.firefox.com using your Firefox Account credentials to locate and remotely control your device. Your device’s approximate location will be reported to us while the device is turned on and connected to the Internet.  If applicable, you are responsible for any charges associated with data transmittal.
+    
+    If you believe your device was stolen, you should contact law enforcement. Be careful sharing personal information  because messages displayed on your device are publicly available.  For more information on Find My Device, see [Insert SUMO link]
 
 4. #### Connected Services
 
-(a)  **Firefox Marketplace**: is our market for apps and games on desktop and Android and Firefox OS devices.  By using Firefox Marketplace content through your Firefox Account, you agree to these Terms, in addition to the Firefox Marketplace Terms of Use and Firefox Marketplace Privacy Notice.  [INSERT LINKS]
+(a)  **Firefox Marketplace**: is our market for apps and games on desktop and Android and Firefox OS devices.  By using Firefox Marketplace content through your Firefox Account, you agree to these Terms, in addition to the <a href="https://marketplace.firefox.com/terms-of-use">Firefox Marketplace Terms of Use</a> and <a href="https://marketplace.firefox.com/privacy-policy">Firefox Marketplace Privacy Notice</a> .  
 
-(b) **Loop**: is a [insert product description].  By using Loop with your Firefox Account, you agree to these Terms, in addition to the [insert link to Loop ToS and PN].
+(b) **INSERT PRODUCT NAME**: is an end-to-end real-time communications service offered by Mozilla and TokBox.  By using [NAME] with your Firefox Account, you agree to these Terms, in addition to the NAME's Terms of Use and NAME's Privacy Notice.
     
     
 5. #### Privacy Policy
