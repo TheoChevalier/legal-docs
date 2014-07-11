@@ -2,18 +2,18 @@
 
 ### Résumé
 
-Cette première section présente un résumé des conditions d'utilisation. Elle vous permet de mieux comprendre les conditions ; veillez toutefois à lire tout le document, car si vous l'acceptez, cela signifie que vous acceptez TOUTES les conditions, pas seulement ce résumé.
+Cette première section présente un résumé des conditions d'utilisation. Elle vous permet de mieux comprendre les conditions ; veillez toutefois à lire tout le document, car si vous l'acceptez, cela signifie que vous acceptez TOUTES les conditions, pas seulement ce résumé.
 
 - Vous devez être âgé d'au moins 18 ans pour avoir un compte sur le Marketplace ou être autorisé et supervisé par vos parents pour utiliser le Marketplace.
-- La gestion de vos données sera conforme à la [politique de confidentialité de Firefox Marketplace](/media/docs/privacy/en-US.html). Les applis ou modules fournis par d'autres parties pourront avoir leur propre politique de confidentialité.
-- Les développeurs (et non pas Mozilla) sont seuls responsables de chaque appli ou module, y compris de la fourniture du support.
+- La gestion de vos données sera conforme à la [politique de confidentialité de Firefox Marketplace](/media/docs/privacy/en-US.html). Les applications ou modules fournis par d'autres parties pourront avoir leur propre politique de confidentialité.
+- Les développeurs (et non pas Mozilla) sont seuls responsables de chaque application ou module, y compris de la fourniture du support.
 - Ne faites rien d'illégal ou quoi que soit qui puisse nous nuire ou nuire à d'autres.
 - Nous ne sommes pas responsable de votre utilisation de Firefox Marketplace ou des actions des autres utilisateurs, y compris les développeurs.
-- Vous êtes les seuls responsables de l'utilisation ou de la mauvaise utilisation du site Firefox Marketplace, des applis ou modules.
+- Vous êtes les seuls responsables de l'utilisation ou de la mauvaise utilisation du site Firefox Marketplace, des applications ou modules.
 
 ### Introduction
 
-Chez Mozilla, nous nous engageons à promouvoir le choix et l'innovation sur le Web. C'est la raison pour laquelle nous avons créé le Firefox Marketplace, un marché publique où les développeurs peuvent distribuer leurs applis ou modules pour que les utilisateurs puissent les utiliser sur tout appareil pouvant accéder au Web ouvert.
+Chez Mozilla, nous nous engageons à promouvoir le choix et l'innovation sur le Web. C'est la raison pour laquelle nous avons créé le Firefox Marketplace, un marché public où les développeurs peuvent distribuer leurs applications ou modules pour que les utilisateurs puissent les utiliser sur tout appareil pouvant accéder au Web ouvert.
 
 L'utilisation de Firefox Marketplace est soumise aux termes et conditions de ces Conditions d'utilisation ainsi qu'aux politiques de Firefox Marketplace y afférentes et mentionnées dans les présentes Conditions ou dans le Firefox Marketplace (nous les nommerons collectivement « Conditions »).
 
@@ -41,7 +41,7 @@ Vous pouvez installer des modules ou applications (dénommés collectivement, «
 
 ### Contenus du marketplace
 
-Chaque développeur, et pas Mozilla (sauf si nous développons nos propres applis ou modules), est seul responsable de ses modules et applications.
+Chaque développeur, et pas Mozilla (sauf si nous développons nos propres applications ou modules), est seul responsable de ses modules et applications.
 
 
 ### Achat de contenus
@@ -83,14 +83,14 @@ Vous pourrez « uploader » (publier en ligne) des commentaires, images de profi
 
 ### Notification relative à la Loi Digital Millennium Copyright
 
-Si vous êtes propriétaire de droits d'auteur ou agent d'un propriétaire de droits d'auteur et pensez que les contenus disponibles sur l'un des sites web de Mozilla violent l'un ou plusieurs de vos droits d'auteur, veuillez le signaler immédiatement à l'Agent des droits d'auteur de Mozilla par une notification envoyée par email, la poste ou fax (« Notification DMCA ») en y incluant les informations indiquées ci-dessous. Vous pouvez examiner l'alinéa 17 U.S.C. § 512(c)(3) de la Loi Digital Millennium Copyright pour des précisions en matière d'autorité, ou consulter notre avocat au besoin. S'il est nécessaire de prendre des mesures suite à une Notification DMCA, Mozilla fera de son mieux pour contacter la partie qui a rendu disponible le contenu en question, en utilisant l'adresse email la plus récente qui lui a été fournie par la partie concernée. Vous pourrez être tenu responsable des dommages résultant de déclarations erronées contenues dans la Notification DMCA. Par conséquent, si vous n'êtes pas sûr que le contenu placé sur le site web ou pointé par un lien du site viole votre droit d'auteur, vous devriez prendre en considération cette éventualité avant de contacter un avocat.
+Si vous êtes propriétaire de droits d'auteur ou agent d'un propriétaire de droits d'auteur et pensez que les contenus disponibles sur l'un des sites web de Mozilla violent l'un ou plusieurs de vos droits d'auteur, veuillez le signaler immédiatement à l'Agent des droits d'auteur de Mozilla par une notification envoyée par courriel, la poste ou fax (« Notification DMCA ») en y incluant les informations indiquées ci-dessous. Vous pouvez examiner l'alinéa 17 U.S.C. § 512(c)(3) de la Loi Digital Millennium Copyright pour des précisions en matière d'autorité, ou consulter notre avocat au besoin. S'il est nécessaire de prendre des mesures suite à une Notification DMCA, Mozilla fera de son mieux pour contacter la partie qui a rendu disponible le contenu en question, en utilisant l'adresse électronique la plus récente qui lui a été fournie par la partie concernée. Vous pourrez être tenu responsable des dommages résultant de déclarations erronées contenues dans la Notification DMCA. Par conséquent, si vous n'êtes pas sûr que le contenu placé sur le site web ou pointé par un lien du site viole votre droit d'auteur, vous devriez prendre en considération cette éventualité avant de contacter un avocat.
 
 Toutes les Notifications DMCA doivent contenir :
 
 1. Une signature, électronique ou physique, du propriétaire du droit exclusif qui a été violé, ou d'une personne autorisée à agir pour son compte ;
 2. Une identification du travail ou des travaux protégés par le droit d'auteur que vous estimez avoir été violé ;
 3. Une description de la nature et de l'emplacement du travail que vous estimez faire l'objet d'une violation de votre droit d'auteur, qui soit assez précise pour permettre à Mozilla de trouver et d'identifier correctement ce contenu, y compris l'URL où il est placé ;
-4. Votre nom, adresse, numéro de téléphone et adresse email où il nous sera possible de vous contacter ;
+4. Votre nom, adresse, numéro de téléphone et adresse électronique où il nous sera possible de vous contacter ;
 5. Une déclaration qui atteste que : **(i)** vous croyez en bonne foi que l'utilisation du matériel que vous estimez faire l'objet d'une violation de votre droit d'auteur n'est pas autorisée par la loi, ou par le propriétaire du droit d'auteur ou par l'agent du propriétaire en question ; et **(ii)** que toutes les informations contenues dans votre Notification DMCA sont exactes et que, sous peine de sanction pour parjure, vous êtes le propriétaire, ou la personne autorisée à agir pour le compte du propriétaire du droit d'auteur exclusif violé.
 
 L'Agent des droits d'auteur désigné par Mozilla pour recevoir les notifications de violations présumées est le suivant :
@@ -100,7 +100,7 @@ L'Agent des droits d'auteur désigné par Mozilla pour recevoir les notification
   Mozilla Corporation<br>
   331 E. Evelyn Ave.,<br>
   Mountain View, CA 94041<br>
-  Email : dmcanotice@mozilla.com<br>
+  Courriel : dmcanotice@mozilla.com<br>
   Numéro de tél. : [650-903-0800](tel:6509030800)<br>
   Fax : 650-903-0875
 </address>
@@ -118,7 +118,7 @@ Sachez que les Notifications DMCA envoyées à Mozilla pourront être transmises
 
 ### Notifications des marques déposées
 
-Si vous êtes propriétaire d'une marque déposée ou agent d'un propriétaire de marques déposées et pensez que les contenus disponibles sur l'un des sites web de Mozilla portent atteinte à l'une ou plusieurs de vos marques déposées, veuillez le signaler immédiatement à l'Agent des droits d'auteur de Mozilla par une notification envoyée par email, la poste ou fax (« Avis DMCA ») en y incluant les informations indiquées ci-dessous. Mozilla gère les notifications relatives aux violations des marques déposées via une procédure très similaire à celle des Notifications DMCA, illustrée ci-dessus pour les droits d'auteur. En plus des conditions requises pour les Notifications DMCA, Mozilla exige que l'intégralité de la Notification de marque déposée soit faite par le propriétaire de la marque déposée (ou son agent) sous peine de sanction pour parjure.
+Si vous êtes propriétaire d'une marque déposée ou agent d'un propriétaire de marques déposées et pensez que les contenus disponibles sur l'un des sites web de Mozilla portent atteinte à l'une ou plusieurs de vos marques déposées, veuillez le signaler immédiatement à l'Agent des droits d'auteur de Mozilla par une notification envoyée par courriel, la poste ou fax (« Avis DMCA ») en y incluant les informations indiquées ci-dessous. Mozilla gère les notifications relatives aux violations des marques déposées via une procédure très similaire à celle des Notifications DMCA, illustrée ci-dessus pour les droits d'auteur. En plus des conditions requises pour les Notifications DMCA, Mozilla exige que l'intégralité de la Notification de marque déposée soit faite par le propriétaire de la marque déposée (ou son agent) sous peine de sanction pour parjure.
 
 
 ### Exportation
@@ -144,7 +144,7 @@ Les Conditions resteront en vigueur jusqu'à ce que l'une des parties, vous ou M
 
 Vous pourrez résilier votre contrat légal avec Mozilla concernant le Firefox Marketplace à tout moment, pour quelque raison que ce soit, en désactivant vos comptes et interrompant l'utilisation de Firefox Marketplace. Vous ne devez pas informer expressément Mozilla lorsque vous arrêtez d'utiliser Firefox Marketplace. Si vous arrêtez d'utiliser Firefox Marketplace sans désactiver vos comptes, ceux-ci pourront être désactivés du fait d'une inactivité prolongée.
 
-Nous pourrons suspendre ou résilier vos comptes, ou cesser de vous fournir Firefox Marketplace, en partie ou intégralement, à tout moment pour quelque raison que ce soit, si nous croyons raisonnablement, y compris mais sans limitation, que : (i) vous avez violé ces Conditions ; (ii) vous nous exposez à un risque légal potentiel ; ou (iii) la fourniture de Firefox Marketplace n'est plus commercialement viable à votre égard. Nous ferons tous les efforts possibles - dans la mesure du raisonnable - pour vous notifier notre décision via l'adresse email associée à votre compte ou lors du prochain accès à votre compte.
+Nous pourrons suspendre ou résilier vos comptes, ou cesser de vous fournir Firefox Marketplace, en partie ou intégralement, à tout moment pour quelque raison que ce soit, si nous croyons raisonnablement, y compris mais sans limitation, que : (i) vous avez violé ces Conditions ; (ii) vous nous exposez à un risque légal potentiel ; ou (iii) la fourniture de Firefox Marketplace n'est plus commercialement viable à votre égard. Nous ferons tous les efforts possibles - dans la mesure du raisonnable - pour vous notifier notre décision via l'adresse électronique associée à votre compte ou lors du prochain accès à votre compte.
 
 Dans tous les cas susmentionnés, les présentes Conditions seront résiliées, y compris et sans limitation, votre licence d'utilisation de Firefox Marketplace, à l'exception des sections suivantes qui resteront en vigueur : Désengagement et indemnisation, Clause de non-responsabilité ; Limitation de responsabilité, Droit applicable, Divers.
 

@@ -1,15 +1,15 @@
-# Politique de confidentialité des Services Cloud de Firefox
+# Politique de confidentialité des Services en ligne de Firefox
 
 26 mars 2014
 {: datetime="2014-03-26" }
 
-Nous nous soucions de votre vie privée. Quand les Services Cloud de Firefox (les « Services ») envoient des informations à Mozilla (c'est nous), la [politique de confidentialité de Mozilla](http://www.mozilla.org/en-US/privacy/) vous explique comment nous gérons ces informations.
+Nous nous soucions de votre vie privée. Quand les Services en ligne de Firefox (les « Services ») envoient des informations à Mozilla (c'est nous), la [politique de confidentialité de Mozilla](http://www.mozilla.org/en-US/privacy/) vous explique comment nous gérons ces informations.
 
 ## Voici ce que vous devriez savoir :
 
-Vous nous transmettez différents types de données selon les fonctions des Services que vous utilisez.  En savoir plus.
+Vous nous transmettez différents types de données selon les fonctions des Services que vous utilisez. En savoir plus.
 
-* **Compte Firefox** : Lorsque vous vous inscrivez pour ouvrir un compte, nous recevons votre adresse email et mot de passe. 
+* **Compte Firefox** : Lorsque vous vous inscrivez pour ouvrir un compte, nous recevons votre adresse électronique et mot de passe. 
 * **Sync** : Si vous utilisez Sync, nous recevons une variété d'informations pour synchroniser vos onglets, votre barre d'adresse, vos mots de passe, vos marque-pages, les préférences du navigateur et d'autres données présentes sur les appareils.  
 
 ---------------------------------------
